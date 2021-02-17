@@ -7,5 +7,5 @@
 
 
 
-## Security Researcher Persoinal Blog 
+## Security Researcher Web Logs 
 https://lukeleal.com/research/posts/
