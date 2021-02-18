@@ -1,7 +1,8 @@
 # awesome-security-blogs
 
 ## Security Researcher Web Logs 
-* Luke Leal - https://lukeleal.com/research/posts/ 
+* [Luke Leal](https://lukeleal.com/research/posts/) 
+* [The DFIR Report](https://thedfirreport.com/)
 
 
 ## Company-Sponsored Logs
