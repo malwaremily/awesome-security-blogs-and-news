@@ -8,10 +8,9 @@ This awesome list shares links to awesome security blogs.
 
 
 ### Security Researcher Web Logs 
-* [Luke Leal](https://lukeleal.com/research/posts/) 
-* [The DFIR Report](https://thedfirreport.com/)
+* 🔥 [The DFIR Report](https://thedfirreport.com/)
 * 🔥 [HackerUnder.Dev](https://www.hackerunder.dev)
-
+* [Luke Leal](https://lukeleal.com/research/posts/) 
 
 ### Company-Sponsored Logs
 * 🔥 💯 [Google Project Zero](https://googleprojectzero.blogspot.com/) - "News and updates from the Project Zero team at Google"
