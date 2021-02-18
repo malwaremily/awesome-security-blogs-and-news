@@ -2,7 +2,7 @@
 
 This awesome list shares links to awesome security blogs.
 
-Legend:
+### Legend: </br>
 🔥 - Highly Recommended </br>
 💯 - 100+ Security Blog Posts </br>
 
