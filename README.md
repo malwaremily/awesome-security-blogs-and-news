@@ -11,3 +11,4 @@
 * [Rapid7 Blog](https://blog.rapid7.com/tag/research/)
 * [SANS Blog](https://www.sans.org/blog/)
 * [Crowdstrike Blog](https://www.crowdstrike.com/blog/)
+* [AWS Security Blog](https://aws.amazon.com/blogs/security/)
