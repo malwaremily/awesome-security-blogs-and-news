@@ -1,4 +1,4 @@
-# 🕶️ awesome-security-blogs
+# 🕶️ Awesome Security Blogs
 
 ## Security Researcher Web Logs 
 * [Luke Leal](https://lukeleal.com/research/posts/) 
