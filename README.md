@@ -1,4 +1,4 @@
-# 🕶️ Awesome Security Blogs
+# Awesome Security Blogs 🕶️
 
 This awesome list shares links to awesome security blogs.
 
