@@ -7,10 +7,11 @@ A collection of awesome security blogs.
 💯 - 100+ Security Blog Posts </br>
 
 
-### Security Research Blogs 
+### General Security Blogs
 * 🔥 [The DFIR Report](https://thedfirreport.com/)
 * [Luke Leal](https://lukeleal.com/research/posts/) 
 * [vxunderground papers](https://github.com/vxunderground/VXUG-Papers)
+* [The Binary Hick](https://thebinaryhick.blog/)
 
 ### CTF & HTB Blogs
 * 🔥 [HackerUnder.Dev](https://www.hackerunder.dev)
