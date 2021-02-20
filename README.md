@@ -15,6 +15,9 @@ This awesome list shares links to awesome security blogs.
 ### CTF & HTB Blogs
 * 🔥 [HackerUnder.Dev](https://www.hackerunder.dev)
 
+### Security News & Other
+* [TorrentFreak](https://torrentfreak.com/)
+
 ### Company-Sponsored Blogs
 * 🔥 💯 [Google Project Zero](https://googleprojectzero.blogspot.com/) - "News and updates from the Project Zero team at Google"
 * 🔥 💯 [Blumira Security Blog](https://www.blumira.com/blog/)
