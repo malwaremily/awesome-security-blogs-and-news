@@ -9,8 +9,10 @@ This awesome list shares links to awesome security blogs.
 
 ### Security Researcher Blogs 
 * 🔥 [The DFIR Report](https://thedfirreport.com/)
-* 🔥 [HackerUnder.Dev](https://www.hackerunder.dev)
 * [Luke Leal](https://lukeleal.com/research/posts/) 
+
+### CTF & HTB Blogs
+* 🔥 [HackerUnder.Dev](https://www.hackerunder.dev)
 
 ### Company-Sponsored Blogs
 * 🔥 💯 [Google Project Zero](https://googleprojectzero.blogspot.com/) - "News and updates from the Project Zero team at Google"
