@@ -1,6 +1,6 @@
 # Awesome Security Blogs 🕶️
 
-This awesome list shares links to awesome security blogs.
+A collection of awesome security blogs.
 
 #### Legend: </br>
 🔥 - Highly Recommended </br>
