@@ -10,6 +10,7 @@ This awesome list shares links to awesome security blogs.
 ### Security Researcher Blogs 
 * 🔥 [The DFIR Report](https://thedfirreport.com/)
 * [Luke Leal](https://lukeleal.com/research/posts/) 
+* [vxunderground papers](https://github.com/vxunderground/VXUG-Papers)
 
 ### CTF & HTB Blogs
 * 🔥 [HackerUnder.Dev](https://www.hackerunder.dev)
