@@ -8,7 +8,7 @@ A collection of awesome security blogs.
 
 
 ### General Security Blogs
-* 🔥 [The DFIR Report](https://thedfirreport.com/)
+* 🔥 [The DFIR Report](https://thedfirreport.com/) Real Intrusions by Real Attackers, The Truth Behind the Intrusion
 * [Luke Leal](https://lukeleal.com/research/posts/) 
 * [vxunderground papers](https://github.com/vxunderground/VXUG-Papers)
 * [The Binary Hick](https://thebinaryhick.blog/)
