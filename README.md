@@ -7,12 +7,12 @@ This awesome list shares links to awesome security blogs.
 💯 - 100+ Security Blog Posts </br>
 
 
-### Security Researcher Web Logs 
+### Security Researcher Blogs 
 * 🔥 [The DFIR Report](https://thedfirreport.com/)
 * 🔥 [HackerUnder.Dev](https://www.hackerunder.dev)
 * [Luke Leal](https://lukeleal.com/research/posts/) 
 
-### Company-Sponsored Logs
+### Company-Sponsored Blogs
 * 🔥 💯 [Google Project Zero](https://googleprojectzero.blogspot.com/) - "News and updates from the Project Zero team at Google"
 * 🔥 💯 [Blumira Security Blog](https://www.blumira.com/blog/)
 * 🔥 💯 [AWS Security Blog](https://aws.amazon.com/blogs/security/)
