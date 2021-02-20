@@ -7,7 +7,7 @@ This awesome list shares links to awesome security blogs.
 💯 - 100+ Security Blog Posts </br>
 
 
-### Security Researcher Blogs 
+### Security Research Blogs 
 * 🔥 [The DFIR Report](https://thedfirreport.com/)
 * [Luke Leal](https://lukeleal.com/research/posts/) 
 * [vxunderground papers](https://github.com/vxunderground/VXUG-Papers)
