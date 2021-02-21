@@ -31,8 +31,8 @@ A curated list of awesome security blogs.
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
 |---|---|---|
-| 📺 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
-| 📺 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
+| 📺 💯 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
+| 📺 💯 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 
 ## COMPANY-SPONSORED BLOGS
