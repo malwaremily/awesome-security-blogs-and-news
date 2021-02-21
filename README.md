@@ -4,12 +4,12 @@ A curated list of awesome security blogs.
 
 #### Legend: </br>
 💯 - 100+ Security Blog Posts </br>
-📺 - Ads
-💙 - Defensive Security Content
-❤️ - Offensive Security Content
-💔 - Vulnerability Research Content
-🔐 - Cryptography Content
-👁️ - Privacy Content
+📺 - Ads </br>
+💙 - Defensive Security Content </br>
+❤️ - Offensive Security Content </br>
+💔 - Vulnerability Research Content </br>
+🔐 - Cryptography Content </br>
+👁️ - Privacy Content </br>
 * * *
 
 ## GENERAL SECURITY BLOGS
