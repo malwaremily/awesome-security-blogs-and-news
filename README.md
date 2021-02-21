@@ -12,9 +12,9 @@ A curated list of awesome security blogs.
 #### Individual Researchers
 |Legend|Title|Description|
 |---|---|---|
-| 📺 💯 |[MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
+| 💯 📺 | [MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
 | | [Luke Leal](https://lukeleal.com/research/posts/) | Luke's Security Research|
-||[The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
+| | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 | | [evilsocket](https://www.evilsocket.net/) | A blog from evilsocket, creator of bettercap, pwnagotchi, & opensnitch |
 | | [Max Justicz](https://justi.cz/) | Small collection of vulnerability blogs |
 | | [breakdev.org](https://breakdev.org/) | A blog from Kuba Gretzky, creator of evilginx |
@@ -40,14 +40,14 @@ A curated list of awesome security blogs.
 | 💯 | [ProtonMail Blog](https://protonmail.com/blog/) | A privacy and product update blog from ProtonMail |
 | 💯 | [Crowdstrike Security Blog](https://www.crowdstrike.com/blog/) | Crowdstrike product updates and security news |
 | 💯 | [The Red Canary Blog](https://redcanary.com/blog/) | A research, news, and product updates from Red Canary |
-| |[Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
+| | [Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
 | 💯 | [SANS Blog](https://www.sans.org/blog/) | Security news and articles from SANS |
 
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
 |---|---|---|
-| 📺 💯 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
-| 📺 💯 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
+| 💯 📺 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
+| 💯 📺 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 | 📺 | [KrebsonSecurity](https://krebsonsecurity.com/)| Krebs on Security In-depth security news and investigation |
 
