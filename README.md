@@ -5,6 +5,7 @@ A curated list of awesome security blogs.
 #### Legend: </br>
 🔥 - Highly Recommended </br>
 💯 - 100+ Security Blog Posts </br>
+📺 - Ads
 
 * * *
 
@@ -12,6 +13,7 @@ A curated list of awesome security blogs.
 #### Individual Researchers
 |Legend|Title|Description|
 |---|---|---|
+|🔥 📺|[MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
 | | [Luke Leal](https://lukeleal.com/research/posts/) | Luke's Security Research|
 ||[The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 
@@ -29,8 +31,8 @@ A curated list of awesome security blogs.
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
 |---|---|---|
-| | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
-| | [Dark Reading](https://www.darkreading.com/) | Security News Site |
+| 📺 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
+| 📺 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 
 ## COMPANY-SPONSORED BLOGS
