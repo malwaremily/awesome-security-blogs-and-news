@@ -49,6 +49,7 @@ A curated list of awesome security blogs.
 | 📺 💯 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
 | 📺 💯 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
+| 📺 | [KrebsonSecurity](https://krebsonsecurity.com/)| Krebs on Security In-depth security news and investigation |
 
 * * * 
 
