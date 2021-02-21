@@ -13,7 +13,7 @@ A curated list of awesome security blogs.
 #### Individual Researchers
 |Legend|Title|Description|
 |---|---|---|
-|🔥 📺|[MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
+|🔥 📺 💯 |[MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
 | | [Luke Leal](https://lukeleal.com/research/posts/) | Luke's Security Research|
 ||[The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 
@@ -45,3 +45,4 @@ A curated list of awesome security blogs.
 | 💯 | [SANS Blog](https://www.sans.org/blog/) | Security news and articles from SANS |
 | 💯 | [Crowdstrike Security Blog](https://www.crowdstrike.com/blog/) | Crowdstrike product updates and security news |
 | | [The Red Canary Blog](https://redcanary.com/blog/) | Tips on increasing visibility, expanding detection coverage, and improving information security |
+| |[Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
