@@ -46,3 +46,6 @@ A curated list of awesome security blogs.
 | 💯 | [Crowdstrike Security Blog](https://www.crowdstrike.com/blog/) | Crowdstrike product updates and security news |
 | | [The Red Canary Blog](https://redcanary.com/blog/) | Tips on increasing visibility, expanding detection coverage, and improving information security |
 | |[Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
+
+## AWESOME LISTS
+* [Awesome - sindresorhus](https://github.com/sindresorhus/awesome) | Awesome lists about all kinds of interesting topics 
