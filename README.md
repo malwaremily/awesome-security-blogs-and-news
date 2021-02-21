@@ -55,6 +55,12 @@ A curated list of awesome security blogs.
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 | 📺 | [KrebsonSecurity](https://krebsonsecurity.com/)| Krebs on Security In-depth security news and investigation |
 
+
+## AUDIO-ONLY BLOGS
+|Legend|Title|Description|
+|---|---|---|
+| ❤️ | [DarknetDiaries](https://darknetdiaries.com/) | True stories from the dark side of the internet |
+
 * * * 
 
 ## AWESOME LISTS
