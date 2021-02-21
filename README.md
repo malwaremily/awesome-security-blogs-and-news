@@ -17,11 +17,11 @@ A curated list of awesome security blogs.
 |Legend|Title|Description|
 |---|---|---|
 | 💯 📺 💙 | [MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
-| | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 | ❤️ | [evilsocket](https://www.evilsocket.net/) | A blog from evilsocket, creator of bettercap, pwnagotchi, & opensnitch |
 | 💔 | [Max Justicz](https://justi.cz/) | Small collection of vulnerability blogs |
 | ❤️ | [breakdev.org](https://breakdev.org/) | A blog from Kuba Gretzky, creator of evilginx |
-| 💙 | [Lenny Zeltser](https://zeltser.com/) | A blog from  |
+| 💙 | [Lenny Zeltser](https://zeltser.com/) | A blog from Lenny Zeltser, creator of SIFT |
+| 💙 | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 
 #### Multiple Researchers
 |Legend|Title|Description|
