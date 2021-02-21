@@ -57,7 +57,7 @@ A curated list of awesome security blogs.
 | 📺 | [KrebsonSecurity](https://krebsonsecurity.com/)| Krebs on Security In-depth security news and investigation |
 
 
-## AUDIO-ONLY BLOGS
+## AUDIO BLOGS & PODCASTS
 |Legend|Title|Description|
 |---|---|---|
 | ❤️ | [DarknetDiaries](https://darknetdiaries.com/) | True stories from the dark side of the internet |
