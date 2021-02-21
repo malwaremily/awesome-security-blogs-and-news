@@ -37,7 +37,7 @@ A curated list of awesome security blogs.
 | 💯 | [Rapid7 Blog](https://blog.rapid7.com/tag/research/) | Research from Rapid7 |
 | 💯 | [ProtonMail Blog](https://protonmail.com/blog/) | A privacy and product update blog from ProtonMail |
 | 💯 | [Crowdstrike Security Blog](https://www.crowdstrike.com/blog/) | Crowdstrike product updates and security news |
-| | [The Red Canary Blog](https://redcanary.com/blog/) | A research, news, and product updates from Red Canary |
+| 💯 | [The Red Canary Blog](https://redcanary.com/blog/) | A research, news, and product updates from Red Canary |
 | |[Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
 | 💯 | [SANS Blog](https://www.sans.org/blog/) | Security news and articles from SANS |
 
