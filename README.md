@@ -50,5 +50,6 @@ A curated list of awesome security blogs.
 * * * 
 
 ## AWESOME LISTS
-* [Awesome - sindresorhus](https://github.com/sindresorhus/awesome) | Awesome lists about all kinds of interesting topics
-* [Awesome Security - sbilly](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
+|---|---|
+| [Awesome - sindresorhus](https://github.com/sindresorhus/awesome) | Awesome lists about all kinds of interesting topics |
+| [Awesome Security - sbilly](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cool stuff about security |
