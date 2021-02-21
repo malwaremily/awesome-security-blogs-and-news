@@ -5,11 +5,11 @@ A curated list of awesome security blogs.
 #### Legend: </br>
 💯 - 100+ Security Blog Posts </br>
 📺 - Ads </br>
-💙 - Defensive Security Content </br>
-❤️ - Offensive Security Content </br>
-💔 - Vulnerability Research Content </br>
-🔐 - Cryptography Content </br>
-👁️ - Privacy Content </br>
+💙 - Defense/Blue Teaming </br>
+❤️ - Offense/Red Teaming  </br>
+💔 - Vulnerability & PoC Write-Ups </br>
+🔐 - Cryptography </br>
+👁️ - Privacy </br>
 * * *
 
 ## GENERAL SECURITY BLOGS
@@ -22,6 +22,7 @@ A curated list of awesome security blogs.
 | ❤️ | [breakdev.org](https://breakdev.org/) | A blog from Kuba Gretzky, creator of evilginx |
 | 💙 | [Lenny Zeltser](https://zeltser.com/) | A blog from Lenny Zeltser, creator of SIFT |
 | 💙 | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
+| 💙 💔 | [ZeroSec](https://blog.zsec.uk/) | ZeroSec Blog: Featuring Write-Ups, Projects & Andy Gill's Security Adventures |
 
 #### Multiple Researchers
 |Legend|Title|Description|
@@ -32,7 +33,7 @@ A curated list of awesome security blogs.
 ## CTF & HTB BLOGS
 |Legend|Title|Description|
 |---|---|---|
-| ❤️ | [HackerUnder.Dev](https://www.hackerunder.dev) | Learning to be a better hacker |
+| ❤️💔 | [HackerUnder.Dev](https://www.hackerunder.dev) | Learning to be a better hacker |
 
 ## COMPANY-SPONSORED BLOGS
 |Legend|Title|Description|
