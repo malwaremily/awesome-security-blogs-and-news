@@ -1,6 +1,6 @@
 # Awesome Security Blogs 🕶️
 
-A collection of awesome security blogs.
+A curated list of awesome security blogs.
 
 #### Legend: </br>
 🔥 - Highly Recommended </br>
@@ -8,7 +8,7 @@ A collection of awesome security blogs.
 
 * * *
 
-## General Security Blogs
+## GENERAL SECURITY BLOGS
 #### Individual Researchers
 |Legend|Title|Description|
 |---|---|---|
@@ -21,19 +21,19 @@ A collection of awesome security blogs.
 | 🔥 | [The DFIR Report](https://thedfirreport.com/) | Real Intrusions by Real Attackers, The Truth Behind the Intrusion |
 | | [vxunderground papers](https://github.com/vxunderground/VXUG-Papers) | Research code & papers from members of vx-underground |
 
-## CTF & HTB Blogs
+## CTF & HTB BLOGS
 |Legend|Title|Description|
 |---|---|---|
 | 🔥 | [HackerUnder.Dev](https://www.hackerunder.dev) | Learning to be a better hacker |
 
-## Security News & Other
+## SECURITY NEWS SITES
 |Legend|Title|Description|
 |---|---|---|
 | | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
 | | [Dark Reading](https://www.darkreading.com/) | Security News Site |
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 
-## Company-Sponsored Blogs
+## COMPANY-SPONSORED BLOGS
 |Legend|Title|Description|
 |---|---|---|
 | 🔥 💯 | [Google Project Zero](https://googleprojectzero.blogspot.com/) | News and updates from the Project Zero team at Google |
