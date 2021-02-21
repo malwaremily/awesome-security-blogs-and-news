@@ -50,7 +50,12 @@ A curated list of awesome security blogs.
 * * * 
 
 ## AWESOME LISTS
+
+A list of awesome security and data science lists.
+
 | List | Description |
 |---|---|
 | [Awesome - sindresorhus](https://github.com/sindresorhus/awesome) | Awesome lists about all kinds of interesting topics |
 | [Awesome Security - sbilly](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cool stuff about security |
+| [Awesome Honeypots - paralax](https://github.com/paralax/awesome-honeypots) | A curated list of awesome honeypots, plus related components and more|
+| [Awesome Movies for Hackers - k4m4](https://github.com/k4m4/movies-for-hackers) | A curated list of movies every hacker & cyberpunk must watch.|
