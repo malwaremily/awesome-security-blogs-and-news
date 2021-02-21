@@ -16,7 +16,7 @@ A curated list of awesome security blogs.
 |🔥 📺 💯 |[MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
 | | [Luke Leal](https://lukeleal.com/research/posts/) | Luke's Security Research|
 ||[The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
-| 🔥 | [evilsocket](https://www.evilsocket.net/) | A blog from evilsocket creator of bettercap, pwnagotchi, & opensnitch |
+| 🔥 | [evilsocket](https://www.evilsocket.net/) | A blog from evilsocket, creator of bettercap, pwnagotchi, & opensnitch |
 
 #### Multiple Researchers
 |Legend|Title|Description|
