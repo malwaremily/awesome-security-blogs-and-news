@@ -28,13 +28,6 @@ A curated list of awesome security blogs.
 |---|---|---|
 | 🔥 | [HackerUnder.Dev](https://www.hackerunder.dev) | Learning to be a better hacker |
 
-## SECURITY NEWS SITES
-|Legend|Title|Description|
-|---|---|---|
-| 📺 💯 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
-| 📺 💯 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
-| | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
-
 ## COMPANY-SPONSORED BLOGS
 |Legend|Title|Description|
 |---|---|---|
@@ -46,6 +39,13 @@ A curated list of awesome security blogs.
 | 💯 | [Crowdstrike Security Blog](https://www.crowdstrike.com/blog/) | Crowdstrike product updates and security news |
 | | [The Red Canary Blog](https://redcanary.com/blog/) | Tips on increasing visibility, expanding detection coverage, and improving information security |
 | |[Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
+
+## SECURITY NEWS SITES
+|Legend|Title|Description|
+|---|---|---|
+| 📺 💯 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
+| 📺 💯 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
+| | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 
 * * * 
 
