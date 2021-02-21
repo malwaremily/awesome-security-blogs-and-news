@@ -47,5 +47,8 @@ A curated list of awesome security blogs.
 | | [The Red Canary Blog](https://redcanary.com/blog/) | Tips on increasing visibility, expanding detection coverage, and improving information security |
 | |[Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
 
+* * * 
+
 ## AWESOME LISTS
-* [Awesome - sindresorhus](https://github.com/sindresorhus/awesome) | Awesome lists about all kinds of interesting topics 
+* [Awesome - sindresorhus](https://github.com/sindresorhus/awesome) | Awesome lists about all kinds of interesting topics
+* [Awesome Security - sbilly](https://github.com/sbilly/awesome-security) | A collection of awesome software, libraries, documents, books, resources and cool stuff about security.
