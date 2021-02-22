@@ -14,13 +14,13 @@ A curated list of awesome security blogs.
 * * * 
 #### Table of Contents
 [General Security](# general security blogs)
-    [Individual Researchers](# Individual Researchers)
-    [Multiple Researchers](# Multiple Researchers)
-[CTF & HTB](# CTF & HTB BLOGS)
-[Company Sponsored](# COMPANY-SPONSORED BLOGS)
-[Security News Sites](# SECURITY NEWS SITES)
-[Audio & Podcasts](# AUDIO BLOGS & PODCASTS)
-[Awesome Lists](# AWESOME LISTS)
+[Individual Researchers](# individual researchers)
+[Multiple Researchers](# multiple researchers)
+[CTF & HTB](# ctf & htb blogs)
+[Company Sponsored](# company-sponsored blogs)
+[Security News Sites](# security news sites)
+[Audio & Podcasts](# audio blogs & podcasts)
+[Awesome Lists](# awsesome lists)
 
 * * *
 
