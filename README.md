@@ -12,6 +12,17 @@ A curated list of awesome security blogs.
 👁️ - Privacy </br>
 * * *
 
+- [General Security](# GENERAL SECURITY BLOGS)
+    - [Individual Researchers](#### Individual Researchers)
+    - [Multiple Researchers](#### Multiple Researchers)
+- [CTF & HTB](## CTF & HTB BLOGS)
+- [Company Sponsored](## COMPANY-SPONSORED BLOGS)
+- [Security News Sites](## SECURITY NEWS SITES)
+- [Audio & Podcasts](## AUDIO BLOGS & PODCASTS)
+- [Awesome Lists](## AWESOME LISTS)
+
+* * *
+
 ## GENERAL SECURITY BLOGS
 #### Individual Researchers
 |Legend|Title|Description|
