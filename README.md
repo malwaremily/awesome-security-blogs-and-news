@@ -67,6 +67,9 @@ A curated list of awesome security blogs.
 | ❤️ | [TrustedSec](https://www.trustedsec.com/blog/) | A security blog from TrustedSec |
 | 💯 💙 | [Honeynet Project Blogs](https://www.honeynet.org/blog/) | A security blog from the Honeynet Project |
 
+## GOVERNMENT & STANDARDS SITES
+| 💙 💔 | [US-CERT](https://us-cert.cisa.gov/) | Current activities, recent vulnerabilities, and announcements from US-CERT |
+
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
 |---|---|---|
