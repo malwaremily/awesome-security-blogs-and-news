@@ -75,4 +75,5 @@ A list of awesome security and data science lists.
 | [Awesome Honeypots - paralax](https://github.com/paralax/awesome-honeypots) | A curated list of awesome honeypots, plus related components and more|
 | [Awesome Movies for Hackers - k4m4](https://github.com/k4m4/movies-for-hackers) | A curated list of movies every hacker & cyberpunk must watch.|
 | [Awesome Monitoring - crazy-canux](https://github.com/crazy-canux/awesome-monitoring) | A curated list of awesome resources for monitoring tools. |
-| [Awesome Serverless Security - puresec](https://github.com/puresec/awesome-serverless-security/) | A curated list of awesome serverless security resources. |
+| [Awesome Serverless Security - puresec](https://github.com/puresec/awesome-serverless-security/) | A curated list of awesome serverless security resources |
+| [Awesome Threat Intelligence - hslatman](https://github.com/hslatman/awesome-threat-intelligence) | A curated list of awesome Threat Intelligence resources |
