@@ -30,6 +30,7 @@ A curated list of awesome security blogs.
 | 💙 | [The DFIR Report](https://thedfirreport.com/) | Real Intrusions by Real Attackers, The Truth Behind the Intrusion |
 | ❤️ | [vxunderground papers](https://github.com/vxunderground/VXUG-Papers) | Research code & papers from members of vx-underground |
 | 💙 | [DarkNet](https://www.darknet.org.uk/) | Don't Learn to Hack - Hack to Learn |
+| 💙 | [Malware Must Die](https://blog.malwaremustdie.org/) | Malware Analysis and Reports |
 
 ## CTF & HTB BLOGS
 |Legend|Title|Description|
@@ -48,6 +49,7 @@ A curated list of awesome security blogs.
 | 💯 💙 | [The Red Canary Blog](https://redcanary.com/blog/) | A research, news, and product updates from Red Canary |
 | 💙 | [Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
 | 💯 💙 | [SANS Blog](https://www.sans.org/blog/) | Security news and articles from SANS |
+| 💯 💙 | [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) | Microsoft Security Response Center Blog |
 
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
