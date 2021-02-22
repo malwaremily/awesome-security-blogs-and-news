@@ -48,7 +48,7 @@ A curated list of awesome security blogs.
 |Legend|Title|Description|
 |---|---|---|
 | ❤️💔 | [HackerUnder.Dev](https://www.hackerunder.dev) | Learning to be a better hacker |
-| ❤️💔 | [HTB](https://forum.hackthebox.eu/categories/writeups) | Hack the Box Retired Writeups |
+| ❤️💔 | [HTB Forum](https://forum.hackthebox.eu/categories/writeups) | Hack the Box Retired Writeups |
 
 ## COMPANY-SPONSORED BLOGS
 |Legend|Title|Description|
