@@ -16,10 +16,10 @@ A curated list of awesome security blogs.
 - [General Security](#general-security-blogs)
   - [Individual Researchers](#individual-researchers)
   - [Multiple Researchers](#multiple-researchers)
-- [CTF & HTB](#ctf-&-htb-blogs)
+- [CTF & HTB](#ctf--htb-blogs)
 - [Company Sponsored](#company-sponsored-blogs)
 - [Security News Sites](#security-news-sites)
-- [Audio & Podcasts](#audio-blogs-&-podcasts)
+- [Audio & Podcasts](#audio-blogs--podcasts)
 - [Awesome Lists](#awesome-lists) 
 
 * * *
