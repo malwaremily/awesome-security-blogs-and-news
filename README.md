@@ -65,6 +65,7 @@ A curated list of awesome security blogs.
 | 💯 💙 | [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) | Microsoft Security Response Center Blog |
 | 💔 | [Shodan Blog](https://blog.shodan.io/) | The latest news and developments for Shodan. |
 | ❤️ | [TrustedSec](https://www.trustedsec.com/blog/) | A security blog from TrustedSec |
+| 💯 💙 | [Honeynet Project Blogs](https://www.honeynet.org/blog/) | A security blog from the Honeynet Project |
 
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
