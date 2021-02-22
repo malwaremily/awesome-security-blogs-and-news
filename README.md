@@ -82,3 +82,4 @@ A list of awesome security and data science lists.
 | [Awesome Threat Intelligence - hslatman](https://github.com/hslatman/awesome-threat-intelligence) | A curated list of awesome Threat Intelligence resources |
 | [Awesome Threat Detection - 0x4D31](https://github.com/0x4D31/awesome-threat-detection) | A curated list of awesome threat detection and hunting resources |
 | [Awesome Security Feed - mrtouch93](https://github.com/mrtouch93/awesome-security-feed) | A semi-curated list of Security Feeds |
+| [Awesome Malware Analysis - rshipp](https://github.com/rshipp/awesome-malware-analysis) | A curated list of awesome malware analysis tools and resources. |
