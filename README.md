@@ -55,6 +55,7 @@ A curated list of awesome security blogs.
 |Legend|Title|Description|
 |---|---|---|
 | 💯 💙 | [Google Project Zero](https://googleprojectzero.blogspot.com/) | News and updates from the Project Zero team at Google |
+| | [Google Security Blog](https://security.googleblog.com/) | The latest news and insights from Google on security and safety on the Internet |
 | 💯 💙 | [AWS Security Blog](https://aws.amazon.com/blogs/security/) | A security blog by AWS |
 | 💯 💙 | [Blumira Security Blog](https://www.blumira.com/blog/) | Blumira product updates, defensive security tips, and news |
 | 💯 💙 | [Rapid7 Blog](https://blog.rapid7.com/tag/research/) | Research from Rapid7 |
@@ -67,6 +68,7 @@ A curated list of awesome security blogs.
 | 💔 | [Shodan Blog](https://blog.shodan.io/) | The latest news and developments for Shodan. |
 | ❤️ | [TrustedSec](https://www.trustedsec.com/blog/) | A security blog from TrustedSec |
 | 💯 💙 | [Honeynet Project Blogs](https://www.honeynet.org/blog/) | A security blog from the Honeynet Project |
+| 💯 💙 | [F-Security Blog](https://labs.f-secure.com/blog/) | Research Blog from F-Security |
 
 ## GOVERNMENT & STANDARDS SITES
 |Legend|Title|Description|
