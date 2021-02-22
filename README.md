@@ -10,16 +10,17 @@ A curated list of awesome security blogs.
 💔 - Vulnerability & PoC Write-Ups </br>
 🔐 - Cryptography </br>
 👁️ - Privacy </br>
-* * *
 
-- [General Security](# GENERAL SECURITY BLOGS)
-    - [Individual Researchers](#### Individual Researchers)
-    - [Multiple Researchers](#### Multiple Researchers)
-- [CTF & HTB](## CTF & HTB BLOGS)
-- [Company Sponsored](## COMPANY-SPONSORED BLOGS)
-- [Security News Sites](## SECURITY NEWS SITES)
-- [Audio & Podcasts](## AUDIO BLOGS & PODCASTS)
-- [Awesome Lists](## AWESOME LISTS)
+* * * 
+
+[General Security](# GENERAL SECURITY BLOGS)
+    [Individual Researchers](# Individual Researchers)
+    [Multiple Researchers](# Multiple Researchers)
+[CTF & HTB](# CTF & HTB BLOGS)
+[Company Sponsored](# COMPANY-SPONSORED BLOGS)
+[Security News Sites](# SECURITY NEWS SITES)
+[Audio & Podcasts](# AUDIO BLOGS & PODCASTS)
+[Awesome Lists](# AWESOME LISTS)
 
 * * *
 
