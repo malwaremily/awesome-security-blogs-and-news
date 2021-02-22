@@ -62,7 +62,7 @@ A curated list of awesome security blogs.
 | 💙 | [Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
 | 💯 💙 | [SANS Blog](https://www.sans.org/blog/) | Security news and articles from SANS |
 | 💯 💙 | [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) | Microsoft Security Response Center Blog |
-| 💔 | [Shodan Blog](https://blog.shodan.io/) |
+| 💔 | [Shodan Blog](https://blog.shodan.io/) | The latest news and developments for Shodan. |
 
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
