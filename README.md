@@ -20,7 +20,7 @@ A curated list of awesome security blogs.
 - [Company Sponsored](#company-sponsored-blogs)
 - [Security News Sites](#security-news-sites)
 - [Audio & Podcasts](#audio-blogs-&-podcasts)
-- [Awesome Lists](#awsesome-lists)
+- [Awesome Lists](#awesome-lists) 
 
 * * *
 
