@@ -79,7 +79,7 @@ A curated list of awesome security blogs.
 |Legend|Title|Description|
 |---|---|---|
 | ❤️ | [DarknetDiaries](https://darknetdiaries.com/) | True stories from the dark side of the internet |
-| 💙 | [BDSPodcast](https://brakeingsecurity.com/) | Brakeing Down Security Podcast |
+| 💯 💙 | [BDSPodcast](https://brakeingsecurity.com/) | Brakeing Down Security Podcast |
 
 * * * 
 
