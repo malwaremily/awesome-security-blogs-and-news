@@ -36,7 +36,7 @@ A curated list of awesome security blogs.
 | 💙 | [Lenny Zeltser](https://zeltser.com/) | A blog from Lenny Zeltser, creator of SIFT |
 | 💙 | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 | 💙 💔 | [ZeroSec](https://blog.zsec.uk/) | ZeroSec Blog: Featuring Write-Ups, Projects & Andy Gill's Security Adventures |
-| 💙 | [Abuse.ch](https://abuse.ch/#blog) | A blog from the creator of Abuse.ch |
+| 💙 | [Abuse.ch](https://abuse.ch/#blog) | A blog by "a random swiss guy fighting malware for non-profit", the creator of Abuse.ch |
 
 #### Multiple Researchers
 |Legend|Title|Description|
