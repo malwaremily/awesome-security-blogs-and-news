@@ -70,6 +70,7 @@ A curated list of awesome security blogs.
 | ❤️ | [TrustedSec](https://www.trustedsec.com/blog/) | A security blog from TrustedSec |
 | 💯 💙 | [Honeynet Project Blogs](https://www.honeynet.org/blog/) | A security blog from the Honeynet Project |
 | 💯 💙 | [F-Security Blog](https://labs.f-secure.com/blog/) | Research Blog from F-Security |
+| 💔 | [PT SWARM](https://swarm.ptsecurity.com/) | Vulnerability Blog from PT SWARM (Security Weakness Advanced Research and Modeling), the offensive security department at Positive Technologies. |
 
 ## GOVERNMENT & STANDARDS SITES
 |Legend|Title|Description|
