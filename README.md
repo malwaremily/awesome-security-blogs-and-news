@@ -3,7 +3,7 @@
 A curated list of awesome security blogs.
 
 #### Legend: </br>
-💯 - 100+ Security Blog Posts </br>
+💯 - 100+ Blog Posts </br>
 📺 - Ads </br>
 💙 - Defense/Blue Teaming </br>
 ❤️ - Offense/Red Teaming  </br>
@@ -38,7 +38,7 @@ A curated list of awesome security blogs.
 | 💙 | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 | 💙 💔 | [ZeroSec](https://blog.zsec.uk/) | ZeroSec Blog: Featuring Write-Ups, Projects & Andy Gill's Security Adventures |
 | 💙 | [Abuse.ch](https://abuse.ch/#blog) | A blog by "a random swiss guy fighting malware for non-profit", the creator of Abuse.ch |
-| 💻 | [Julia Evans](https://jvns.ca/) | A blog by Julia Evans with a TON of useful posts about linux, containers, computer tools, etc. |
+| 💯 💻 | [Julia Evans](https://jvns.ca/) | A blog by Julia Evans with a TON of useful posts about linux, containers, computer tools, etc. |
 
 #### Multiple Researchers
 |Legend|Title|Description|
