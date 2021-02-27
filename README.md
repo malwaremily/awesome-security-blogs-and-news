@@ -10,6 +10,7 @@ A curated list of awesome security blogs.
 💔 - Vulnerability & PoC Write-Ups </br>
 🔐 - Cryptography </br>
 👁️ - Privacy </br>
+💻 - Developer </br>
 
 * * * 
 #### Table of Contents
@@ -37,6 +38,7 @@ A curated list of awesome security blogs.
 | 💙 | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 | 💙 💔 | [ZeroSec](https://blog.zsec.uk/) | ZeroSec Blog: Featuring Write-Ups, Projects & Andy Gill's Security Adventures |
 | 💙 | [Abuse.ch](https://abuse.ch/#blog) | A blog by "a random swiss guy fighting malware for non-profit", the creator of Abuse.ch |
+| 💻 | [Julia Evans](https://jvns.ca/) | A blog by Julia Evans with a TON of useful posts about linux, containers, computer tools, etc. |
 
 #### Multiple Researchers
 |Legend|Title|Description|
