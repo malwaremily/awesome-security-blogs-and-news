@@ -20,6 +20,7 @@ A curated list of awesome security blogs.
 - [CTF & HTB](#ctf--htb-blogs)
 - [Company Sponsored](#company-sponsored-blogs)
 - [Security News Sites](#security-news-sites)
+- [Security Reports](#security-reports)
 - [Government & Standards Sites](#government--standards-sites)
 - [Audio & Podcasts](#audio-blogs--podcasts)
 - [Awesome Lists](#awesome-lists) 
