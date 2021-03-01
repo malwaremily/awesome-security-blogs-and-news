@@ -122,4 +122,4 @@ A list of awesome security and data science lists.
 | [Awesome Threat Detection - 0x4D31](https://github.com/0x4D31/awesome-threat-detection) | A curated list of awesome threat detection and hunting resources |
 | [Awesome Threat Intelligence - hslatman](https://github.com/hslatman/awesome-threat-intelligence) | A curated list of awesome Threat Intelligence resources |
 
-[Back to Top](#table-of-contents)
+[Back to Top](#legend)
