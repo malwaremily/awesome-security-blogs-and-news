@@ -40,6 +40,7 @@ A curated list of awesome security blogs.
 | 💙 | [Abuse.ch](https://abuse.ch/#blog) | A blog by "a random swiss guy fighting malware for non-profit", the creator of Abuse.ch |
 | 💯 💻 | [Julia Evans](https://jvns.ca/) | A blog by Julia Evans with a TON of useful posts about linux, containers, computer tools, etc. |
 | 💯 💻 | [Rachel by the Bay](https://rachelbythebay.com/w/) | Software, technology, sysadmin ware stories, and more. |
+| 💙 | [Kelly Shortridge](https://swagitda.com/blog/posts/) | A blog by Kelly Shortridge, co-author of *The Security Chaos Engineering Book* |
 
 #### Multiple Researchers
 |Legend|Title|Description|
