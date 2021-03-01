@@ -2,7 +2,7 @@
 
 A curated list of awesome security blogs.
 
-#### Legend: </br>
+#### LEGEND </br>
 💯 - 100+ Blog Posts </br>
 📺 - Ads </br>
 💙 - Defense/Blue Teaming </br>
@@ -13,7 +13,7 @@ A curated list of awesome security blogs.
 💻 - System Administration </br>
 
 * * * 
-#### Table of Contents
+#### TABLE OF CONTENTS
 - [General Security](#general-security-blogs)
   - [Individual Researchers](#individual-researchers)
   - [Multiple Researchers](#multiple-researchers)
@@ -27,7 +27,7 @@ A curated list of awesome security blogs.
 * * *
 
 ## GENERAL SECURITY BLOGS
-#### Individual Researchers
+#### INDIVIDUAL RESEARCHERS
 |Legend|Title|Description|
 |---|---|---|
 | 💙 | [Abuse.ch](https://abuse.ch/#blog) | A blog by "a random swiss guy fighting malware for non-profit", the creator of Abuse.ch |
@@ -43,7 +43,7 @@ A curated list of awesome security blogs.
 | 💙 💔 | [ZeroSec](https://blog.zsec.uk/) | ZeroSec Blog: Featuring Write-Ups, Projects & Andy Gill's Security Adventures |
 
 
-#### Multiple Researchers
+#### MULTIPLE RESEARCHERS
 |Legend|Title|Description|
 |---|---|---|
 | 💙 | [DarkNet](https://www.darknet.org.uk/) | Don't Learn to Hack - Hack to Learn |
@@ -77,7 +77,7 @@ A curated list of awesome security blogs.
 | ❤️ | [TrustedSec](https://www.trustedsec.com/blog/) | A security blog from TrustedSec |
 | 💯 💙 | [The Red Canary Blog](https://redcanary.com/blog/) | A research, news, and product updates from Red Canary |
 
-## Security Reports
+## SECURITY REPORTS
 |Legend|Title|Description|
 |---|---|---|
 | 💯 💙 ❤️ 💔 |[US-CERT Threat Analysis Reports](https://us-cert.cisa.gov/ncas/analysis-reports) | Analysis Reports provide in-depth analysis on a new or evolving cyber threat. |
