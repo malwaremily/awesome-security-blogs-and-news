@@ -1,6 +1,6 @@
-# Awesome Security Blogs & Reports 🕶️
+# Awesome Security Blogs 🕶️
 
-A curated list of awesome security blogs.
+A curated list of awesome security blogs plus other written and audio resources.
 
 #### LEGEND </br>
 💯 - 100+ Blog Posts </br>
