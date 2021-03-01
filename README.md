@@ -2,7 +2,7 @@
 
 A curated list of awesome security blogs plus other written and audio resources.
 
-#### LEGEND </br>
+#### LEGEND
 💯 - 100+ Blog Posts </br>
 📺 - Ads </br>
 💙 - Defense/Blue Teaming </br>
