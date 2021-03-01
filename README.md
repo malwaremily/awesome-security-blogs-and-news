@@ -1,4 +1,4 @@
-# Awesome Security Blogs 🕶️
+# Awesome Security Blogs & Reports 🕶️
 
 A curated list of awesome security blogs.
 
@@ -68,7 +68,6 @@ A curated list of awesome security blogs.
 | 💙 | [Google Security Blog](https://security.googleblog.com/) | The latest news and insights from Google on security and safety on the Internet |
 | 💯 💙 | [Honeynet Project Blogs](https://www.honeynet.org/blog/) | A security blog from the Honeynet Project |
 | 💯 💙 | [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) | Microsoft Security Response Center Blog |
-| 💯 💙 ❤️ 💔 |[US-CERT Threat Analysis Reports](https://us-cert.cisa.gov/ncas/analysis-reports) | Analysis Reports provide in-depth analysis on a new or evolving cyber threat. |
 | 💯 👁️ | [ProtonMail Blog](https://protonmail.com/blog/) | A privacy and product update blog from ProtonMail |
 | 💔 | [PT SWARM](https://swarm.ptsecurity.com/) | Vulnerability Blog from PT SWARM (Security Weakness Advanced Research and Modeling), the offensive security department at Positive Technologies. |
 | 💯 💙 | [Rapid7 Blog](https://blog.rapid7.com/tag/research/) | Research from Rapid7 |
@@ -78,6 +77,10 @@ A curated list of awesome security blogs.
 | ❤️ | [TrustedSec](https://www.trustedsec.com/blog/) | A security blog from TrustedSec |
 | 💯 💙 | [The Red Canary Blog](https://redcanary.com/blog/) | A research, news, and product updates from Red Canary |
 
+## Security Reports
+|Legend|Title|Description|
+|---|---|---|
+| 💯 💙 ❤️ 💔 |[US-CERT Threat Analysis Reports](https://us-cert.cisa.gov/ncas/analysis-reports) | Analysis Reports provide in-depth analysis on a new or evolving cyber threat. |
 
 ## GOVERNMENT & STANDARDS SITES
 |Legend|Title|Description|
