@@ -34,6 +34,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💙 | [Abuse.ch](https://abuse.ch/#blog) | A blog by "a random swiss guy fighting malware for non-profit", the creator of Abuse.ch |
 | 💙 | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 | ❤️ | [breakdev.org](https://breakdev.org/) | A blog from Kuba Gretzky, creator of evilginx |
+| 💙 | [Eric Conrad](https://www.ericconrad.com/) | Threat Hunter Blog by Eric Conrad |
 | ❤️ | [evilsocket](https://www.evilsocket.net/) | A blog from evilsocket, creator of bettercap, pwnagotchi, & opensnitch |
 | 💯 💻 | [Julia Evans](https://jvns.ca/) | A blog by Julia Evans with a TON of useful posts about linux, containers, computer tools, etc. |
 | 💙 | [Kelly Shortridge](https://swagitda.com/blog/posts/) | A blog by Kelly Shortridge, co-author of *The Security Chaos Engineering Book* |
