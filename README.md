@@ -8,6 +8,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 💙 - Defense/Blue Teaming </br>
 ❤️ - Offense/Red Teaming  </br>
 💔 - Vulnerability & PoC Write-Ups </br>
+👾 - Malware Analysis </br>
 🔐 - Cryptography </br>
 👁️ - Privacy </br>
 💻 - System Administration </br>
@@ -35,10 +36,11 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💙 | [The Binary Hick](https://thebinaryhick.blog/)|Thoughts From a Digital Forensic Practitioner|
 | ❤️ | [breakdev.org](https://breakdev.org/) | A blog from Kuba Gretzky, creator of evilginx |
 | 💙 | [Eric Conrad](https://www.ericconrad.com/) | Threat Hunter Blog by Eric Conrad |
+| 👾 | [The Hive](https://thehive-kb.xyz) | A blog about low-level stuff, Reverse Engineering / Malware Research and Analysis. |
 | 💯 💻 | [Julia Evans](https://jvns.ca/) | A blog by Julia Evans with a TON of useful posts about linux, containers, computer tools, etc. |
 | 💙 | [Kelly Shortridge](https://swagitda.com/blog/posts/) | A blog by Kelly Shortridge, co-author of *The Security Chaos Engineering Book* |
 | 💙 | [Lenny Zeltser](https://zeltser.com/) | A blog from Lenny Zeltser, creator of SIFT |
-| 💯 📺 💙 | [MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
+| 💯 📺 👾 | [MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
 | 💔 | [Max Justicz](https://justi.cz/) | Small collection of vulnerability blogs |
 | 💯 💻 | [Rachel by the Bay](https://rachelbythebay.com/w/) | Software, technology, sysadmin ware stories, and more. |
 | ❤️ | [Simone Margaritelli](https://www.evilsocket.net/) | A blog from evilsocket, creator of bettercap, pwnagotchi, & opensnitch |
@@ -49,8 +51,8 @@ A curated list of awesome security blogs plus other written and audio resources.
 |Legend|Title|Description|
 |---|---|---|
 | 💙 | [DarkNet](https://www.darknet.org.uk/) | Don't Learn to Hack - Hack to Learn |
-| 💙 | [The DFIR Report](https://thedfirreport.com/) | Real Intrusions by Real Attackers, The Truth Behind the Intrusion |
-| 💙 | [Malware Must Die](https://blog.malwaremustdie.org/) | Malware Analysis and Reports |
+| 👾 | [The DFIR Report](https://thedfirreport.com/) | Real Intrusions by Real Attackers, The Truth Behind the Intrusion |
+| 👾 | [Malware Must Die](https://blog.malwaremustdie.org/) | Malware Analysis and Reports |
 | ❤️ | [vxunderground papers](https://github.com/vxunderground/VXUG-Papers) | Research code & papers from members of vx-underground |
 
 ## CTF & HTB BLOGS
