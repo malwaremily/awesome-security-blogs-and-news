@@ -66,6 +66,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 |---|---|---|
 | 💯 💙 | [AWS Security Blog](https://aws.amazon.com/blogs/security/) | A security blog by AWS |
 | 💯 💙 | [Blumira Security Blog](https://www.blumira.com/blog/) | Blumira product updates, defensive security tips, and news |
+| 💯 💙 | [Cloudflare](https://blog.cloudflare.com/tag/security/) | Cloudflare security blog |
 | 💯 💙 | [Crowdstrike Security Blog](https://www.crowdstrike.com/blog/) | Crowdstrike product updates and security news |
 | 💯 💙 | [F-Security Blog](https://labs.f-secure.com/blog/) | Research Blog from F-Security |
 | 💯 💙 | [Google Project Zero](https://googleprojectzero.blogspot.com/) | News and updates from the Project Zero team at Google |
