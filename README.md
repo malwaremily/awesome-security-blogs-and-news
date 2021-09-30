@@ -101,6 +101,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💯 📺 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 | | [VICE Hacking](https://www.vice.com/en/topic/hacking) | VICE Hacking News | 
+| 📺 | [Cybersecurity Log](https://cybersecuritylog.com/) | Cybersecurity Log |
 
 
 ## AUDIO BLOGS & PODCASTS
