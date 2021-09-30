@@ -82,7 +82,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💙 | [Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
 | ❤️ | [TrustedSec](https://www.trustedsec.com/blog/) | A security blog from TrustedSec |
 | 💯 💙 | [The Red Canary Blog](https://redcanary.com/blog/) | A research, news, and product updates from Red Canary |
-| 💯 💙 | [DigitalOcean](https://www.digitalocean.com/community/tags/security) | DigitalOcean articles on security |
+| 💯 💙 | [DigitalOcean](https://www.digitalocean.com/community/tags/security) | DigitalOcean Articles on Security |
 
 ## SECURITY REPORTS
 |Legend|Title|Description|
