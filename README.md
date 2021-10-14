@@ -3,7 +3,7 @@
 A curated list of awesome security blogs plus other written and audio resources.
 
 #### LEGEND
-💯 - 100+ Blog Posts </br>
+💯 - 100+ Blog Posts or Articles </br>
 📺 - Ads </br>
 💙 - Defense/Blue Teaming </br>
 ❤️ - Offense/Red Teaming  </br>
@@ -103,6 +103,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 | | [VICE Hacking](https://www.vice.com/en/topic/hacking) | VICE Hacking News | 
 | 📺 | [Cybersecurity Log](https://cybersecuritylog.com/) | Cybersecurity Log |
+ |💯 📺 | [ZDnet Security](https://www.zdnet.com/topic/security/) | ZDnet Security News |
 
 
 ## AUDIO BLOGS & PODCASTS
