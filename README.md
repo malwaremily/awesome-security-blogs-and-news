@@ -2,17 +2,6 @@
 
 A curated list of awesome security blogs plus other written and audio resources.
 
-#### LEGEND
-💯 - 100+ Blog Posts or Articles </br>
-📺 - Ads </br>
-💙 - Defense/Blue Teaming </br>
-❤️ - Offense/Red Teaming  </br>
-💔 - Vulnerability & PoC Write-Ups </br>
-👾 - Malware Analysis </br>
-🔐 - Cryptography </br>
-👁️ - Privacy </br>
-💻 - System Administration </br>
-
 * * * 
 #### TABLE OF CONTENTS
 - [General Security](#general-security-blogs)
@@ -25,6 +14,19 @@ A curated list of awesome security blogs plus other written and audio resources.
 - [Government & Standards Sites](#government--standards-sites)
 - [Audio & Podcasts](#audio-blogs--podcasts)
 - [Awesome Lists](#awesome-lists) 
+
+* * *
+
+#### LEGEND
+💯 - 100+ Blog Posts or Articles </br>
+📺 - Ads </br>
+💙 - Defense/Blue Teaming </br>
+❤️ - Offense/Red Teaming  </br>
+💔 - Vulnerability & PoC Write-Ups </br>
+👾 - Malware Analysis </br>
+🔐 - Cryptography </br>
+👁️ - Privacy </br>
+💻 - System Administration </br>
 
 * * *
 
