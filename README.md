@@ -70,7 +70,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💯 💙 | [Crowdstrike Security Blog](https://www.crowdstrike.com/blog/) | Crowdstrike product updates and security news |
 | 💯 💙 | [F-Security Blog](https://labs.f-secure.com/blog/) | Research Blog from F-Security |
 | 💯 💙 | [Google Project Zero](https://googleprojectzero.blogspot.com/) | News and updates from the Project Zero team at Google |
-| 💙 | [Google TAG] (https://blog.google/threat-analysis-group/) | Updates from Threat Analysis Group (TAG) |
+| 💙 | [Google TAG](https://blog.google/threat-analysis-group/) | Updates from Threat Analysis Group (TAG) |
 | 💯 💙 💔 | [GRIMM Blog](https://blog.grimm-co.com/) | A security blog from GRIMM. |
 | 💙 | [Google Security Blog](https://security.googleblog.com/) | The latest news and insights from Google on security and safety on the Internet |
 | 💯 💙 | [Honeynet Project Blogs](https://www.honeynet.org/blog/) | A security blog from the Honeynet Project |
