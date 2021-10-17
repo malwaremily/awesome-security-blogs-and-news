@@ -70,6 +70,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💯 💙 | [Blumira Security Blog](https://www.blumira.com/blog/) | Blumira product updates, defensive security tips, and news |
 | 💯 💙 | [Cloudflare](https://blog.cloudflare.com/tag/security/) | Cloudflare security blog |
 | 💯 💙 | [Crowdstrike Security Blog](https://www.crowdstrike.com/blog/) | Crowdstrike product updates and security news |
+| | [Facebook Security](https://engineering.fb.com/category/security/) | Facebook Security updates and articles |
 | 💯 💙 | [F-Security Blog](https://labs.f-secure.com/blog/) | Research Blog from F-Security |
 | 💯 💙 | [Google Project Zero](https://googleprojectzero.blogspot.com/) | News and updates from the Project Zero team at Google |
 | 💙 | [Google TAG](https://blog.google/threat-analysis-group/) | Updates from Threat Analysis Group (TAG) |
