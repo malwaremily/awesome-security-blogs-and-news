@@ -78,6 +78,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💯 💙 💔 | [GRIMM Blog](https://blog.grimm-co.com/) | A security blog from GRIMM. |
 | 💙 | [Google Security Blog](https://security.googleblog.com/) | The latest news and insights from Google on security and safety on the Internet |
 | 💯 💙 | [Honeynet Project Blogs](https://www.honeynet.org/blog/) | A security blog from the Honeynet Project |
+| 💙 | [Huntress Threat Analysis](https://www.huntress.com/blog/tag/threat-analysis) | Security articles categoried as Threat Analysis from Huntress |
 | 💯 💙 | [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) | Microsoft Security Response Center Blog |
 | 💯 👁️ | [ProtonMail Blog](https://protonmail.com/blog/) | A privacy and product update blog from ProtonMail |
 | 💔 | [PT SWARM](https://swarm.ptsecurity.com/) | Vulnerability Blog from PT SWARM (Security Weakness Advanced Research and Modeling), the offensive security department at Positive Technologies. |
