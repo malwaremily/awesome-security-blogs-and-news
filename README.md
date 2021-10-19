@@ -138,6 +138,6 @@ A list of awesome security and data science lists.
 | [Awesome Serverless Security - puresec](https://github.com/puresec/awesome-serverless-security/) | A curated list of awesome serverless security resources |
 | [Awesome Threat Detection - 0x4D31](https://github.com/0x4D31/awesome-threat-detection) | A curated list of awesome threat detection and hunting resources |
 | [Awesome Threat Intelligence - hslatman](https://github.com/hslatman/awesome-threat-intelligence) | A curated list of awesome Threat Intelligence resources |
-| [Awesome Anti-Forensic](https://github.com/shadawck/awesome-anti-forensic) | Tools and packages that are used for countering forensic activities. |
+| [Awesome Anti-Forensic - shadawck](https://github.com/shadawck/awesome-anti-forensic) | Tools and packages that are used for countering forensic activities. |
 
 [Back to Top](#legend)
