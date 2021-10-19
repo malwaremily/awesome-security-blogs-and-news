@@ -44,6 +44,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💙 | [Lenny Zeltser](https://zeltser.com/) | A blog from Lenny Zeltser, creator of SIFT |
 | 💯 📺 👾 | [MalwareTech](https://www.malwaretech.com/)| Life of a Malware Analyst |
 | 💔 | [Max Justicz](https://justi.cz/) | Small collection of vulnerability blogs |
+| 💔 | [N00PY BLOG](https://www.n00py.io/) | A security blog from @n00py1 |
 | 💯 💻 | [Rachel by the Bay](https://rachelbythebay.com/w/) | Software, technology, sysadmin ware stories, and more. |
 | ❤️ | [Simone Margaritelli](https://www.evilsocket.net/) | A blog from evilsocket, creator of bettercap, pwnagotchi, & opensnitch |
 | 💙 💔 | [ZeroSec](https://blog.zsec.uk/) | ZeroSec Blog: Featuring Write-Ups, Projects & Andy Gill's Security Adventures |
