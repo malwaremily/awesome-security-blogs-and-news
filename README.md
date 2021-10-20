@@ -86,6 +86,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💔 | [PT SWARM](https://swarm.ptsecurity.com/) | Vulnerability Blog from PT SWARM (Security Weakness Advanced Research and Modeling), the offensive security department at Positive Technologies. |
 | 💯 💙 | [Rapid7 Blog](https://blog.rapid7.com/tag/research/) | Research from Rapid7 |
 | 💯 💙 | [SANS Blog](https://www.sans.org/blog/) | Security news and articles from SANS |
+| 💙 ❤️ | [SentinelOne Blog](https://www.sentinelone.com/blog/category/security-research/) | Security Research from SentinelOne
 | 💔 | [Shodan Blog](https://blog.shodan.io/) | The latest news and developments for Shodan. |
 | 💙 | [Sucuri Blog](https://blog.sucuri.net/)| A security blog by Sucuri |
 | ❤️ | [TrustedSec](https://www.trustedsec.com/blog/) | A security blog from TrustedSec |
