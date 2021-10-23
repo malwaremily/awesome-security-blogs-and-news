@@ -102,6 +102,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 |Legend|Title|Description|
 |---|---|---|
 | 💙 💔 | [US-CERT](https://us-cert.cisa.gov/) | Current activities, recent vulnerabilities, and announcements from US-CERT |
+| 💯 | [Justice News](https://www.justice.gov/news) | Department of Justice News |
 
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
@@ -109,7 +110,6 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💯 📺 | [ArsTechnica](https://arstechnica.com/) | Technology News Site |
 | 💯 📺 | [BleepingComputer](https://www.bleepingcomputer.com/) | Technology News Site |
 | 💯 📺 | [Dark Reading](https://www.darkreading.com/) | Security News Site |
-| 💯 | [Justice News](https://www.justice.gov/news) | Department of Justice News |
 | | [TorrentFreak](https://torrentfreak.com/) | Security Related News Bytes |
 | 📺 | [VICE Hacking](https://www.vice.com/en/topic/hacking) | VICE Hacking News | 
 | 📺 | [Cybersecurity Log](https://cybersecuritylog.com/) | Cybersecurity Log |
