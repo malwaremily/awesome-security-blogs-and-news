@@ -81,6 +81,7 @@ A curated list of awesome security blogs plus other written and audio resources.
 | 💯 💙 | [Honeynet Project Blogs](https://www.honeynet.org/blog/) | A security blog from the Honeynet Project |
 | 💙 | [Huntress Threat Analysis](https://www.huntress.com/blog/tag/threat-analysis) | Security articles from the Huntress team |
 | 💯 💙 | [Mandiant](https://www.mandiant.com/resources?f%5B0%5D=layout%3Aarticle_blog) | Security articles from the Mandiant Team |
+| 💯 💙 | [Microsoft Security Blog](https://www.microsoft.com/security/blog/) | General Security Blogs and News from Microsoft |
 | 💯 💙 | [Microsoft Security Response Center](https://msrc-blog.microsoft.com/) | Microsoft Security Response Center Blog |
 | 💯 👁️ | [ProtonMail Blog](https://protonmail.com/blog/) | A privacy and product update blog from ProtonMail |
 | 💔 | [PT SWARM](https://swarm.ptsecurity.com/) | Vulnerability Blog from PT SWARM (Security Weakness Advanced Research and Modeling), the offensive security department at Positive Technologies. |
