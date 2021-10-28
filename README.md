@@ -1,6 +1,6 @@
 # Awesome Security Blogs & News 🕶️
 
-A curated list of awesome security blogs plus other written and audio resources.
+Awesome security blogs plus other written and audio news resources.
 
 * * * 
 #### TABLE OF CONTENTS
