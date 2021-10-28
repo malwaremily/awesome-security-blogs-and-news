@@ -104,6 +104,9 @@ A curated list of awesome security blogs plus other written and audio resources.
 |---|---|---|
 | 💙 💔 | [US-CERT](https://us-cert.cisa.gov/) | Current activities, recent vulnerabilities, and announcements from US-CERT |
 | 💯 | [Justice News](https://www.justice.gov/news) | Department of Justice News |
+| 💯 | [FBI Cyber News](https://www.fbi.gov/investigate/cyber/news) | Cyber Crime news and press releases |
+| 💯 | [FBI IC3](https://www.ic3.gov/Home/ConsumerAlerts) | Federal Bureau of Investigation Internet Crime Compliant Center Press Releases |
+| 💯 | [FBI Industry Alerts](https://www.ic3.gov/Home/IndustryAlerts) | Federal Bureau of Investigation Industry Alerts|
 
 ## SECURITY NEWS SITES
 |Legend|Title|Description|
